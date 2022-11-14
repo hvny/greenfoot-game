@@ -1,2 +1,2 @@
 # greenfoot-game
-finifhed game from second semester
+finished game from second semester
