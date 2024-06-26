@@ -1,2 +1,1 @@
-# greenfoot-game
-finished game from second semester
+# Игра на Greenfoot
